@@ -15,4 +15,3 @@ void loop() {
 void blink() {
   state = !state;
 }
-}
