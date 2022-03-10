@@ -1,10 +1,3 @@
-void setup() {
-  // put your setup code here, to run once:
-
-}
-
-void loop() {
-  // put your main code here, to run repeatedly:
 const byte ledPin = 2;       // Builtin-LED pin
 const byte interruptPin = 0; // BOOT/IO0 button pin
 volatile byte state = LOW;
