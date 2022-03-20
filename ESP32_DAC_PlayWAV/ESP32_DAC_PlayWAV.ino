@@ -21,7 +21,7 @@
 
 Game_Audio_Class GameAudio(25,0); 
 
-Game_Audio_Wav_Class pmWav(SoundData);                            
+Game_Audio_Wav_Class pmWav(SoundData_wav);                            
                                       
 
 void setup() {
